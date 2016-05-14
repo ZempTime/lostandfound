@@ -3,7 +3,8 @@
 <h3>Items</h3>
 <ul>
   <% @items.each do |item| %>
-    <li><%= item %></li>
-
+    <li><%= item.name %></li>
   <% end %>
 </ul>
+
+<%= link_to "new", new_item_path %>
