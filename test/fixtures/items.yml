@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  description: MyString
+  place_found: MyString
+  found_at: 2016-05-13 22:57:03
+  returned_at: MyString
+  returned_to: MyString
+  contact_info: MyString
+
+two:
+  image: MyString
+  description: MyString
+  place_found: MyString
+  found_at: 2016-05-13 22:57:03
+  returned_at: MyString
+  returned_to: MyString
+  contact_info: MyString
